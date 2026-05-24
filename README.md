@@ -17,7 +17,7 @@ and `shlex.split`?
 ## Install
 
 ```bash
-pip install shell-quote
+python -m pip install -e .
 ```
 
 Requires Python 3.8 or newer. Zero runtime dependencies.
